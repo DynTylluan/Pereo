@@ -1,0 +1,181 @@
+Patch File for DeHackEd v3.0
+# Created with WhackEd4 1.2.4 BETA
+# Note: Use the pound sign ('#') to start comment lines.
+
+Doom version = 21
+Patch format = 6
+
+
+Text 2 2
+NoNe
+Text 23 21
+I'm ready to kick butt!Preta piedbati pugon!
+Text 7 5
+I'm OK.Bone-
+Text 25 18
+I'm not looking too good!Mi ne fartas bone!
+Text 5 6
+Help!Helpu!
+Text 9 9
+You suck!Vi sucas!
+Text 21 20
+Next time, scumbag...Venontfoje, amiko...
+Text 10 9
+Come here!Jen! Jen!
+Text 21 13
+I'll take care of it.Mi gin faros.
+Text 3 3
+YesJes
+Text 14 8
+Follow Mode ONsekvante
+Text 15 11
+Follow Mode OFFNe sekvante
+Text 7 4
+Grid ONGrid
+Text 43 28
+You need a blue key to activate this objectVi bezonas la bluan slosilon
+Text 42 28
+You need a red key to activate this objectVi bezonas la rugan slosilon
+Text 45 29
+You need a yellow key to activate this objectVi bezonas la flavan slosilon
+Text 37 28
+You need a blue key to open this doorVi bezonas la bluan slosilon
+Text 39 29
+You need a yellow key to open this doorVi bezonas la flavan slosilon
+Text 36 28
+You need a red key to open this doorVi bezonas la rugan slosilon
+Text 20 20
+Picked up the armor.Reprenis la kirason.
+Text 24 13
+Picked up the MegaArmor!La MegaArmor!
+Text 25 8
+Picked up a health bonus.+1 sano.
+Text 25 9
+Picked up an armor bonus.+1 kiraso
+Text 19 19
+Picked up a rocket.Picked up a rocketx
+Text 7 7
+Green: Verda: 
+Text 7 7
+Brown: Bruna: 
+Text 5 6
+Red: Ruga: 
+Text 12 13
+E1M1: HangarE1M1: Hangaro
+Text 19 19
+E1M2: Nuclear PlantE1M2: Nuklea Centra
+Text 20 21
+E1M3: Toxin RefineryE1M3: Toksin-Rafinejo
+Text 21 19
+E1M4: Command ControlE1M4: Kontrolcentro
+Text 16 16
+E1M5: Phobos LabE1M5: Testcentro
+Text 24 22
+E1M6: Central ProcessingE1M6: Centra Eskpedado
+Text 22 21
+E1M7: Computer StationE1M7: komputer Stacio
+Text 20 21
+E1M8: Phobos AnomalyE1M8: Phobos Anomalio
+Text 19 15
+E1M9: Military BaseE1M9: Militbazo
+Text 20 21
+E2M1: Deimos AnomalyE2M1: Deimos Anomalio
+Text 22 16
+E2M2: Containment AreaE2M2: Enhavarejo
+Text 14 14
+E2M3: RefineryE2M3: Refinejo
+Text 16 17
+E2M4: Deimos LabE2M4: Lun-testejo
+Text 20 18
+E2M5: Command CenterE2M5: Komandcentro
+Text 25 22
+E2M6: Halls of the DamnedE2M6: salonoj de morto
+Text 19 19
+E2M7: Spawning VatsE2M7: nasko-kuvegoj
+Text 20 20
+E2M8: Tower of BabelE2M8: turo de babelo
+Text 25 25
+E2M9: Fortress of MysteryE2M9: fortreso de mistero
+Text 15 14
+E3M1: Hell KeepE3M1: submondo
+Text 23 21
+E3M2: Slough of DespairE3M2: mano de malbono
+Text 17 16
+E3M3: PandemoniumE3M3: Pandemonio
+Text 19 14
+E3M4: House of PainE3M4: kuru nun
+Text 22 22
+E3M5: Unholy CathedralE3M5: Terura Katedralo
+Text 16 16
+E3M6: Mt. ErebusE3M6: la mortigo
+Text 13 13
+E3M9: WarrensE3M9: Nestego
+Text 18 19
+E4M1: Hell BeneathE4M1: Sub la Infero
+Text 20 21
+E4M2: Perfect HatredE4M2: Perfekta Malamo
+Text 22 17
+E4M3: Sever The WickedE4M3: Neniu Pento
+Text 17 16
+E4M4: Unruly EvilE4M4: malzorgema
+Text 22 16
+E4M5: They Will RepentE4M5: Ili Pentas
+Text 27 17
+E4M6: Against Thee WickedlyE4M6: malbono ene
+Text 23 15
+E4M7: And Hell FollowedE4M7: Pura Timo
+Text 20 22
+E4M8: Unto The CruelE4M8: Kaj Hades Sekvis
+Text 10 10
+E4M9: FearE4M9: Timo
+Text 17 17
+level 1: entrywaymapo 1: enirejo
+T
+Text 20 21
+level 3: the gantletmapo 3: the gantlet
+T
+Text 26 27
+level 5: the waste tunnelsmapo 5: the waste tunnels
+T
+Text 20 21
+level 7: dead simplemapo 7: dead simple
+T
+Text 16 17
+level 9: the pitmapo 9: the pit
+T
+Text 29 30
+level 11: 'o' of destruction!mapo 11: 'o' of destruction!
+T
+Text 18 19
+level 13: downtownmapo 13: downtown
+T
+Text 25 26
+level 15: industrial zonemapo 15: industrial zone
+T
+Text 19 19
+level 17: tenementsnivel 17: tenements
+Text 23 23
+level 18: the courtyardnivel 18: the courtyard
+Text 21 22
+level 19: the citadelmapo 19: the citadel
+T
+Text 17 18
+level 21: nirvanamapo 21: nirvana
+T
+Text 24 25
+level 23: barrels o' funmapo 23: barrels o' fun
+T
+Text 20 21
+level 25: bloodfallsmapo 25: bloodfalls
+T
+Text 23 23
+level 27: monster condonivel 27: monster condo
+Text 26 27
+level 28: the spirit worldmapo 28: the spirit world
+T
+Text 21 22
+level 30: icon of sinmapo 30: icon of sin
+T
+Text 16 17
+level 32: grossemapo 32: grosse
+T
