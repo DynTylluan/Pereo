@@ -2,180 +2,487 @@ Patch File for DeHackEd v3.0
 # Created with WhackEd4 1.2.4 BETA
 # Note: Use the pound sign ('#') to start comment lines.
 
+# https://github.com/DynTylluan/Pereo
+# https://owly.fans
+
 Doom version = 21
 Patch format = 6
 
 
-Text 2 2
-NoNe
-Text 23 21
-I'm ready to kick butt!Preta piedbati pugon!
-Text 7 5
-I'm OK.Bone-
-Text 25 18
-I'm not looking too good!Mi ne fartas bone!
-Text 5 6
-Help!Helpu!
+Text 440 394
+Once you beat the big badasses and
+clean out the moon base you're supposed
+to win, aren't you? Aren't you? Where's
+your fat reward and ticket home? What
+the hell is this? It's not supposed to
+end this way!
+
+It stinks like rotten meat, but looks
+like the lost Deimos base.  Looks like
+you're stuck on The Shores of Hell.
+The only way out is through.
+
+To continue the DOOM experience, play
+The Shores of Hell and its amazing
+sequel, Inferno!
+Kiam vi venkus la grandajn malbonulojn
+kaj purigus la lunbazon, vi onidire
+gajnda rekompenco kaj bileto hejmen?
+kio diable est ci tio? ne devas fini tiel!
+
+odoracas kiel putra karno, sed aspektas
+kiel la perdita dejmo-bazo. sajnasm ke
+vi estas kaptita sur la bordoj de infero.
+la sola eliro estas tra.
+
+dor daorigi la doom-sperton, ludu
+"la bordoj de infero" kaj gian
+mirigas sekvon, "inferno"!
+Text 466 434
+You've done it! The hideous cyber-
+demon lord that ruled the lost Deimos
+moon base has been slain and you
+are triumphant! But ... where are
+you? You clamber to the edge of the
+moon and look down to see the awful
+truth.
+
+Deimos floats above Hell itself!
+You've never heard of anyone escaping
+from Hell, but you'll make the bastards
+sorry they ever heard of you! Quickly,
+you rappel down to  the surface of
+Hell.
+
+Now, it's on to the final chapter of
+DOOM! -- Inferno.Vi sukcesis! La malbelega
+ciberdemono-lordo, kiu regis la perditan
+Dejmo-lunbazon, estis mortigita kaj vi
+estas triumfa!
+Sed... kie vi estas? Vi suprenrampas al la
+rando de la luno kaj rigardas malsupren
+por vidi la malbonegan veron.
+
+Dejmo flosas super Infero mem!
+Vi neniam sciigxis pri iu ajn eskapanta
+el Infero, sed vi igos la bastardojn bedauri,
+ke ili iam sciigxis pri vi! Rapide, vi absejlas
+malsupren al la surfaco de Infero.
+Text 492 482
+The loathsome spiderdemon that
+masterminded the invasion of the moon
+bases and caused so much death has had
+its ass kicked for all time.
+
+A hidden doorway opens and you enter.
+You've proven too tough for Hell to
+contain, and now Hell at last plays
+fair -- for you emerge from the door
+to see the green fields of Earth!
+Home at last.
+
+You wonder what's been happening on
+Earth while you were battling evil
+unleashed. It's good that no Hell-
+spawn could have come through that
+door with you ...La abomena aranedemono, kiu kondukis
+la invadon de la lunbazoj kaj kauzis tiom
+da morto, havis gxian pugon piedbatita
+por cxiam.
+
+Kasxita pordo malfermigxas kaj vi eniras.
+Vi pruvis, ke vi estas tro forta por
+Infero deteni vin, kaj nun Infero fine
+ludas honeste -- cxar vi eliras el la pordo
+por vidi la verdajn kampojn de la Tero!
+Hejme fine.
+
+Vi scivolas, kio okazis sur la Tero dum vi
+bataladis malbonon decxenigitan. Bonas,
+ke neniu Inferido povintus veni tra la
+pordo kun vi...
+Text 503 490
+the spider mastermind must have sent forth
+its legions of hellspawn before your
+final confrontation with that terrible
+beast from hell.  but you stepped forward
+and brought forth eternal damnation and
+suffering upon the horde as a true hero
+would in the face of something so evil.
+
+besides, someone was gonna pay for what
+happened to daisy, your pet rabbit.
+
+but now, you see spread before you more
+potential pain and gibbitude as a nation
+of demons run amok among our cities.
+
+next stop, hell on earth!La elektraraneo-mastro versxajne sendis
+siajn legiojn de inferidoj antau via fina
+konflikto kun tiu terura bestacxo el
+Infero. Sed vi pasxis antauen kaj venigis
+eternan damnon kaj suferadon sur la
+hordon, kiel vera heroo farus, kiam fronte
+al io tiel malbona.
+
+Cetere, iu devis pagi pro tio, kio okazis al
+Daisy, via dombesta kuniklo.
+
+Sed nun, vi vidas, sternite antau vi, pli
+eblan doloron kaj bucxadon, dum popolo
+de demonoj kuras amoke en niaj urboj.
+
+Sekva haltejo: Infero Sur La Tero!
+Text 405 406
+YOU HAVE ENTERED DEEPLY INTO THE INFESTED
+STARPORT. BUT SOMETHING IS WRONG. THE
+MONSTERS HAVE BROUGHT THEIR OWN REALITY
+WITH THEM, AND THE STARPORT'S TECHNOLOGY
+IS BEING SUBVERTED BY THEIR PRESENCE.
+
+AHEAD, YOU SEE AN OUTPOST OF HELL, A
+FORTIFIED ZONE. IF YOU CAN GET PAST IT,
+YOU CAN PENETRATE INTO THE HAUNTED HEART
+OF THE STARBASE AND FIND THE CONTROLLING
+SWITCH WHICH HOLDS EARTH'S POPULATION
+HOSTAGE.Vi eniris profunde en la infestitan kosmo-
+havenon. Sed io estas misa. La monstroj
+alportis sian propran realon kun ili, kaj
+la teknologio de la kosmo-haveno estas
+subfosata de ilia cxeesto.
+
+Antaue, vi vidas antaupostenon de infero,
+fortika regiono. Se vi povus iri preter gxi,
+vi povus penetri en la hantitan koron de
+la kosmo-bazo kaj trovi la kontrolsxaltilon,
+kiu ostagxigas la logxantaron de la Tero.
+Text 617 614
+YOU HAVE WON! YOUR VICTORY HAS ENABLED
+HUMANKIND TO EVACUATE EARTH AND ESCAPE
+THE NIGHTMARE.  NOW YOU ARE THE ONLY
+HUMAN LEFT ON THE FACE OF THE PLANET.
+CANNIBAL MUTATIONS, CARNIVOROUS ALIENS,
+AND EVIL SPIRITS ARE YOUR ONLY NEIGHBORS.
+YOU SIT BACK AND WAIT FOR DEATH, CONTENT
+THAT YOU HAVE SAVED YOUR SPECIES.
+
+BUT THEN, EARTH CONTROL BEAMS DOWN A
+MESSAGE FROM SPACE: "SENSORS HAVE LOCATED
+THE SOURCE OF THE ALIEN INVASION. IF YOU
+GO THERE, YOU MAY BE ABLE TO BLOCK THEIR
+ENTRY.  THE ALIEN BASE IS IN THE HEART OF
+YOUR OWN HOME CITY, NOT FAR FROM THE
+STARPORT." SLOWLY AND PAINFULLY YOU GET
+UP AND RETURN TO THE FRAY.Vi gajnis! Via venko ebligis al la homaro
+evakui la Teron kaj eskapi el la terurajxo.
+Nun vi estas la sola homo sur la suprajxo
+de la Tero. Kanibalaj mutaciuloj,
+karnovoraj eksterteranoj, kaj malbonaj
+fantomoj estas viaj nur najbaroj.
+Vi sidas kaj atendas morton, kontenta,
+ke vi savis vian specion.
+
+Sed tiam, la Tero-Kontrolcentro
+transsendas mesagxon el kosmo: "Sensiloj
+trovis la fonton de la ekstertera invado.
+Se vi irus tien, vi eble povas bari ilian
+eniron. La ekstertera bazo estas en la
+koro de via propra hejmurbo, ne fora
+de la kosmo-haveno."
+Malrapide kaj dolore, vi levigxas kaj
+revenas al la batalo.
+Text 312 286
+YOU ARE AT THE CORRUPT HEART OF THE CITY,
+SURROUNDED BY THE CORPSES OF YOUR ENEMIES.
+YOU SEE NO WAY TO DESTROY THE CREATURES'
+ENTRYWAY ON THIS SIDE, SO YOU CLENCH YOUR
+TEETH AND PLUNGE THROUGH IT.
+
+THERE MUST BE A WAY TO CLOSE IT ON THE
+OTHER SIDE. WHAT DO YOU CARE IF YOU'VE
+GOT TO GO THROUGH HELL TO GET TO IT?Vi estas cxe la malvirta koro de la urbo,
+cxirkauita de la kadavroj de viaj malamikoj.
+Vi vidas nenian manieron por detrui la
+enirejon de la estajxoj cxe tiu cxi flanko.
+
+Devas esti maniero por fermi gxin
+cxe la alia flanko. Kial vi zorgu, cxu vi
+bezonas iri tra Infero por atingi gxin?
+Text 494 399
+THE HORRENDOUS VISAGE OF THE BIGGEST
+DEMON YOU'VE EVER SEEN CRUMBLES BEFORE
+YOU, AFTER YOU PUMP YOUR ROCKETS INTO
+HIS EXPOSED BRAIN. THE MONSTER SHRIVELS
+UP AND DIES, ITS THRASHING LIMBS
+DEVASTATING UNTOLD MILES OF HELL'S
+SURFACE.
+
+YOU'VE DONE IT. THE INVASION IS OVER.
+EARTH IS SAVED. HELL IS A WRECK. YOU
+WONDER WHERE BAD FOLKS WILL GO WHEN THEY
+DIE, NOW. WIPING THE SWEAT FROM YOUR
+FOREHEAD YOU BEGIN THE LONG TREK BACK
+HOME. REBUILDING EARTH OUGHT TO BE A
+LOT MORE FUN THAN RUINING IT WAS.
+La horora vizagxo de la plej granda
+demono, kiun vi iam ajn vidis, pecetigxas
+antau vi, post vi pumpis la raketojn
+en lian nudan cerbon.
+
+La invado estas finita.
+La Tero estas savita. Infero estas ruino.
+Vi scivolas, kien malbonuloj nun iros,
+kiam ili mortos. Forvisxante la sxviton de
+la frunto, vi komencas la longan vojagxon
+hejmen. Rekonstrui la Teron devus esti
+multe pli amuze ol ruinigi gxin.
+Text 164 166
+CONGRATULATIONS, YOU'VE FOUND THE SECRET
+LEVEL! LOOKS LIKE IT'S BEEN BUILT BY
+HUMANS, RATHER THAN DEMONS. YOU WONDER
+WHO THE INMATES OF THIS CORNER OF HELL
+WILL BE.Gratulon! Vi trovis la sekretan nivelon!
+Sxajnas, ke gxi estis konstruita de homoj
+anstatau demonoj. Vi scivolas, kiuj estos
+la logxantoj de cxi tiu angulo de Infero.
+Text 92 72
+CONGRATULATIONS, YOU'VE FOUND THE
+SUPER SECRET LEVEL!  YOU'D BETTER
+BLAZE THROUGH THIS ONE!
+Gratulon! Vi trovis la super-sekretan
+nivelon! Prefere kuru tra cxi tiu!
 Text 9 9
-You suck!Vi sucas!
-Text 21 20
-Next time, scumbag...Venontfoje, amiko...
-Text 10 9
-Come here!Jen! Jen!
-Text 21 13
-I'll take care of it.Mi gin faros.
-Text 3 3
-YesJes
-Text 14 8
-Follow Mode ONsekvante
-Text 15 11
-Follow Mode OFFNe sekvante
-Text 7 4
-Grid ONGrid
-Text 43 28
-You need a blue key to activate this objectVi bezonas la bluan slosilon
-Text 42 28
-You need a red key to activate this objectVi bezonas la rugan slosilon
-Text 45 29
-You need a yellow key to activate this objectVi bezonas la flavan slosilon
-Text 37 28
-You need a blue key to open this doorVi bezonas la bluan slosilon
-Text 39 29
-You need a yellow key to open this doorVi bezonas la flavan slosilon
-Text 36 28
-You need a red key to open this doorVi bezonas la rugan slosilon
-Text 20 20
-Picked up the armor.Reprenis la kirason.
-Text 24 13
-Picked up the MegaArmor!La MegaArmor!
-Text 25 8
-Picked up a health bonus.+1 sano.
-Text 25 9
-Picked up an armor bonus.+1 kiraso
-Text 19 19
-Picked up a rocket.Picked up a rocketx
-Text 7 7
-Green: Verda: 
-Text 7 7
-Brown: Bruna: 
+ZOMBIEMANzombiviro
+Text 11 11
+SHOTGUN GUYcaspafilulo
+Text 17 11
+HEAVY WEAPON DUDEpazarmilulo
 Text 5 6
-Red: Ruga: 
+DEMONdemono
+Text 9 6
+LOST SOULkranio
+Text 9 10
+CACODEMONkakodemono
+Text 11 8
+HELL KNIGHTkavaliro
+Text 13 6
+BARON OF HELLbarron
+Text 11 11
+ARACHNOTRONARAKNOTRONO
+Text 14 10
+PAIN ELEMENTALELEMENTALO
+Text 8 7
+MANCUBUSmankubo
+Text 9 9
+ARCH-VILEcef-fiulo
+Text 21 22
+THE SPIDER MASTERMINDla elektraraneo-mastro
+Text 14 14
+THE CYBERDEMONla ciberdemono
+Text 8 9
+OUR HEROnia heroo
+Text 22 17
+Player 1 left the gameLudanto 1 foriris
+Text 24 22
+Killed by network driverMortigite de retsoforo
+Text 47 43
+Different DOOM versions cannot play a net game!Malsamaj versioj ne povas ludi retan ludon!
+Text 23 23
+Doomcom buffer invalid!Doomcom bufro nevalida!
+Text 12 15
+%s is turbo!%s estas turbo!
+Text 8 8
+NET GAMENET ludo
+Text 10 9
+version %iversio %i
+Text 11 7
+game saved.savita.
+Text 38 32
+Demo is from a different game version!Demo estas de malsama ludversio!
+Text 16 18
+Demo %s recordedDemo %s glubendita
+Text 51 51
+you can't save if you aren't playing!
+
+press a key.Vi ne povas konservi se vi ne ludas!
+
+Premu klavon.
+Text 20 18
+Picked up the armor.Prenis la kirason.
+Text 24 14
+Picked up the MegaArmor!La MegaKiraso!
+Text 25 14
+Picked up a health bonus.sanan bonuson.
+Text 25 14
+Picked up an armor bonus.kirasa bonuso.
+Text 12 14
+Supercharge!100 plus sano!
+Text 11 10
+MegaSphere!MegaSfero!
+Text 25 17
+Picked up a blue keycard.blua slosilkarto.
+Text 27 18
+Picked up a yellow keycard.flava slosilkarto.
+Text 24 17
+Picked up a red keycard.ruga slosilkarto.
+Text 27 12
+Picked up a blue skull key.blua kranio.
+Text 29 13
+Picked up a yellow skull key.flava kranio.
+Text 26 12
+Picked up a red skull key.ruga kranio.
+Text 21 15
+Picked up a stimpack.malgranda sano.
+Text 41 24
+Picked up a medikit that you REALLY need!Vi ricevis multan sanon!
+Text 20 23
+Picked up a medikit.Prenis medikamentaron.
+
+Text 16 13
+Invulnerability!Nevundebleco!
+Text 8 8
+Berserk!la povo!
+Text 20 17
+Partial InvisibilityParta Nevidebleco
+Text 24 15
+Radiation Shielding SuitRadiada Kostumo
+Text 17 19
+Computer Area MapKomputila Areo Mapo
+Text 25 12
+Light Amplification VisorLumo-Ampligo
+Text 17 13
+Picked up a clip.Prenis klipo.
+Text 27 18
+Picked up a box of bullets.skatolo da kugloj.
+Text 19 15
+Picked up a rocket.Prenis raketon.
+Text 27 19
+Picked up a box of rockets.skatolo da raketoj.
+Text 25 15
+Picked up an energy cell.plasma municio.
+Text 30 24
+Picked up an energy cell pack.multe da plasma municio.
+Text 27 19
+Picked up 4 shotgun shells.4 caspafilo-kugloj.
+Text 34 18
+Picked up a box of shotgun shells.skatolo da kugloj.
+Text 34 27
+Picked up a backpack full of ammo!tornistro plena de municio!
+Text 30 31
+You got the BFG9000!  Oh, yes.Vi ricevis la BFG900!  Ho jes.
+
+Text 21 23
+You got the chaingun!Vi ricevis la chaingun!
+Text 28 31
+A chainsaw!  Find some meat!Motorigita segilo! Trancu ilin!
+Text 28 28
+You got the rocket launcher!Vi ricevis la raketlancilon!
+Text 23 22
+You got the plasma gun!Vi ricevis la plasman!
+Text 20 13
+You got the shotgun!la caspafilo!
+Text 26 20
+You got the super shotgun!la dutuba caspafilo!
+Text 22 7
+Degreelessness Mode OnDio: on
+Text 23 8
+Degreelessness Mode OffDio: for
+Text 20 15
+Ammo (no keys) AddedMunicio aldonis
+Text 21 14
+Very Happy Ammo AddedFelica Municio
+Text 12 11
+Music ChangeNova muziko
+Text 19 19
+No Clipping Mode ONNeniu eltondado: on
+Text 20 20
+No Clipping Mode OFFNeniu eltondado: for
+Text 16 15
+Power-up ToggledPotenco Sangita
+Text 21 17
+... doesn't suck - GM... ne sucas - GM
+Text 17 19
+Changing Level...Sangante Nivelon...
 Text 12 13
 E1M1: HangarE1M1: Hangaro
-Text 19 19
-E1M2: Nuclear PlantE1M2: Nuklea Centra
+Text 19 18
+E1M2: Nuclear PlantE1M2: Nuklea Uzino
 Text 20 21
 E1M3: Toxin RefineryE1M3: Toksin-Rafinejo
 Text 21 19
 E1M4: Command ControlE1M4: Kontrolcentro
 Text 16 16
-E1M5: Phobos LabE1M5: Testcentro
+E1M5: Phobos LabE1M5: La sekreto
 Text 24 22
 E1M6: Central ProcessingE1M6: Centra Eskpedado
-Text 22 21
-E1M7: Computer StationE1M7: komputer Stacio
-Text 20 21
-E1M8: Phobos AnomalyE1M8: Phobos Anomalio
+Text 22 22
+E1M7: Computer StationE1M7: Komputila Stacio
+Text 20 17
+E1M8: Phobos AnomalyE1M8: La Anomalio
 Text 19 15
 E1M9: Military BaseE1M9: Militbazo
-Text 20 21
-E2M1: Deimos AnomalyE2M1: Deimos Anomalio
+Text 20 22
+E2M1: Deimos AnomalyE2M1: Fino de la Linio
 Text 22 16
 E2M2: Containment AreaE2M2: Enhavarejo
 Text 14 14
-E2M3: RefineryE2M3: Refinejo
+E2M3: RefineryE2M3: Rafinejo
 Text 16 17
-E2M4: Deimos LabE2M4: Lun-testejo
+E2M4: Deimos LabE2M4: Deimos Loko
 Text 20 18
 E2M5: Command CenterE2M5: Komandcentro
-Text 25 22
-E2M6: Halls of the DamnedE2M6: salonoj de morto
-Text 19 19
-E2M7: Spawning VatsE2M7: nasko-kuvegoj
-Text 20 20
-E2M8: Tower of BabelE2M8: turo de babelo
 Text 25 25
-E2M9: Fortress of MysteryE2M9: fortreso de mistero
-Text 15 14
-E3M1: Hell KeepE3M1: submondo
+E2M6: Halls of the DamnedE2M6: Halo de la Damnitoj
+Text 19 15
+E2M7: Spawning VatsE2M7: Toksa Amo
+Text 20 20
+E2M8: Tower of BabelE2M8: Turo de Babelo
+Text 25 27
+E2M9: Fortress of MysteryE2M9: Fortikejo de Konfuzo
+
+Text 15 15
+E3M1: Hell KeepE3M1: En Infero
 Text 23 21
-E3M2: Slough of DespairE3M2: mano de malbono
+E3M2: Slough of DespairE3M2: Senpova Soldato
 Text 17 16
 E3M3: PandemoniumE3M3: Pandemonio
-Text 19 14
-E3M4: House of PainE3M4: kuru nun
-Text 22 22
-E3M5: Unholy CathedralE3M5: Terura Katedralo
-Text 16 16
-E3M6: Mt. ErebusE3M6: la mortigo
-Text 13 13
-E3M9: WarrensE3M9: Nestego
-Text 18 19
-E4M1: Hell BeneathE4M1: Sub la Infero
-Text 20 21
-E4M2: Perfect HatredE4M2: Perfekta Malamo
-Text 22 17
-E4M3: Sever The WickedE4M3: Neniu Pento
-Text 17 16
-E4M4: Unruly EvilE4M4: malzorgema
+Text 19 17
+E3M4: House of PainE3M4: Terura Domo
+Text 22 23
+E3M5: Unholy CathedralE3M5: Malsankta Pregejo
+Text 16 18
+E3M6: Mt. ErebusE3M6: Monto Erebus
+Text 18 17
+E4M1: Hell BeneathE4M1: Infero Sube
+Text 20 17
+E4M2: Perfect HatredE4M2: Pura Malamo
+Text 22 21
+E4M3: Sever The WickedE4M3: Diablo-Servisto
+Text 17 19
+E4M4: Unruly EvilE4M4: Satano Vivas
+
 Text 22 16
-E4M5: They Will RepentE4M5: Ili Pentas
-Text 27 17
-E4M6: Against Thee WickedlyE4M6: malbono ene
-Text 23 15
-E4M7: And Hell FollowedE4M7: Pura Timo
-Text 20 22
-E4M8: Unto The CruelE4M8: Kaj Hades Sekvis
+E4M5: They Will RepentE4M5: Ili Pentos
+Text 27 20
+E4M6: Against Thee WickedlyE4M6: Cesu Malbonon
+
+Text 23 23
+E4M7: And Hell FollowedE4M7: Kaj Infero Sekvis
+Text 20 18
+E4M8: Unto The CruelE4M8: Al La Kruela
 Text 10 10
 E4M9: FearE4M9: Timo
-Text 17 17
+Text 17 15
 level 1: entrywaymapo 1: enirejo
-T
-Text 20 21
-level 3: the gantletmapo 3: the gantlet
-T
-Text 26 27
-level 5: the waste tunnelsmapo 5: the waste tunnels
-T
-Text 20 21
-level 7: dead simplemapo 7: dead simple
-T
-Text 16 17
-level 9: the pitmapo 9: the pit
-T
-Text 29 30
-level 11: 'o' of destruction!mapo 11: 'o' of destruction!
-T
-Text 18 19
-level 13: downtownmapo 13: downtown
-T
-Text 25 26
-level 15: industrial zonemapo 15: industrial zone
-T
-Text 19 19
-level 17: tenementsnivel 17: tenements
-Text 23 23
-level 18: the courtyardnivel 18: the courtyard
-Text 21 22
-level 19: the citadelmapo 19: the citadel
-T
-Text 17 18
-level 21: nirvanamapo 21: nirvana
-T
-Text 24 25
-level 23: barrels o' funmapo 23: barrels o' fun
-T
-Text 20 21
-level 25: bloodfallsmapo 25: bloodfalls
-T
-Text 23 23
-level 27: monster condonivel 27: monster condo
-Text 26 27
-level 28: the spirit worldmapo 28: the spirit world
-T
-Text 21 22
-level 30: icon of sinmapo 30: icon of sin
-T
-Text 16 17
+Text 19 15
+level 2: underhallsmapo 2: kloakoj
+Text 20 23
+level 3: the gantletmapo 3: la protektganto
+Text 18 17
+level 4: the focusmapo 4: la fokuso
+Text 21 20
+level 31: wolfensteinmapo 31: wolfenstein
+Text 16 15
 level 32: grossemapo 32: grosse
-T
+Text 2 0
+TZ
